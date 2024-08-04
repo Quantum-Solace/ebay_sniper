@@ -1,0 +1,10 @@
+{
+  "app_id": "YOUR_APP_ID",
+  "cert_id": "YOUR_CERT_ID",
+  "dev_id": "YOUR_DEV_ID",
+  "redirect_uri": "YOUR_REDIRECT_URI",
+  "user_token": "YOUR_USER_TOKEN",
+  "max_retries": 3,
+  "retry_delay": 2
+}
+
